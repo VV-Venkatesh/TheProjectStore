@@ -16,4 +16,9 @@ The repository shows all my projects at one place.
 👉	Built using UiPath Studio, GenAI Connectors, UiPath Action Centre.  
 👉	Reduced feedback response from 2 days to <1 minute.  
 
+### 4.	Insurance policy backlog reminder
+👉	Triggers email reminders to insurance policy holders and agents on the payment dues and due dates. An unattended that fetches customer details from internal systems and run SQL queries to identify Insurance Policy details, backlogged payments & upcoming payments and send an email to the policy holder and respective agent as a reminder.
+👉	Built using UiPath Studio, Unattended robots, SQL, Outlook Integration and Timed triggers.
+👉	Saved manual efforts of 200 hours per year.
+
 
